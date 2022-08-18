@@ -1,7 +1,6 @@
 #include<stdio.h>
-#include<conio.h>
 float celToFahFun(float);
-Void main()
+void main()
 {
     float Celsius, Fahrenheit;
     printf("Enter Temperature Value (in Celsius): ");
